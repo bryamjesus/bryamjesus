@@ -1,10 +1,8 @@
 <p align="center" width="300">
-   
-   <div display = "flex">
+   <!-- <div style= "display: flex"> -->
       <h1 align="center">¡Hey 👋! Soy Bryam Talledo</h1>
       <img align="center" width="200" src="" />
-</div>
-   
+  <!-- </div> -->
 </p>
 
 <p align="center">
@@ -13,13 +11,18 @@
   </a>
 </p>
 
+## Lenguajes
+<a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
+<a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/java.png"/></a>
+<a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
+<a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
 
 
-- 👋 Hi, I’m @bryamjesus
+<!-- - 👋 Hi, I’m @bryamjesus
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... -->
 
 <!---
 bryamjesus/bryamjesus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
