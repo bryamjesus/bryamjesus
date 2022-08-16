@@ -1,6 +1,6 @@
 <p align="center" width="300">
    <!-- <div style= "display: flex"> -->
-      <h3 align="center" text-decoration ="none" style= "font-size:30px; text-decoration: none;">Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>!, I am </br> Bryam Talledo</h3>
+      <h3 align="center" text-decoration ="none" style= "font-size:50px; text-decoration: none;">Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>!, I am </br> Bryam Talledo</h3>
       <!-- <img align="center" width="200" src="" /> -->
   <!-- </div> -->
 </p>
