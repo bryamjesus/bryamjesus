@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="" />
+   <!--img align="center" width="200" src="" /-->
    <h3 align="center">¡Hey 👋! Soy Bryam Talledo</h3>
 </p>
 
