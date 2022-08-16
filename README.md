@@ -1,6 +1,6 @@
 <p align="center" width="300">
    <!-- <div style= "display: flex"> -->
-      <h2 align="center">¡Hey 👋! Soy Bryam Talledo</h2>
+      <h3 align="center">¡Hey 👋! Soy Bryam Talledo</h3>
       <!-- <img align="center" width="200" src="" /> -->
   <!-- </div> -->
 </p>
