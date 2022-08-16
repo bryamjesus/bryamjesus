@@ -1,7 +1,7 @@
 <p align="center" width="300">
    <!-- <div style= "display: flex"> -->
       <h1 align="center">¡Hey 👋! Soy Bryam Talledo</h1>
-      <img align="center" width="200" src="" />
+      <!-- <img align="center" width="200" src="" /> -->
   <!-- </div> -->
 </p>
 
@@ -9,9 +9,9 @@
   <a href="https://www.linkedin.com/in/bryam-jesus-talledo-garcia-b5ab1b1b7/" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Bryam Jesus Talledo Garcia" height="28px" width="28px" />
   </a>
-  <!--
+  <!-----
   https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg
-  -->
+  ----->
   <a href="https://www.linkedin.com/in/bryam-jesus-talledo-garcia-b5ab1b1b7/" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Bryam Jesus Talledo Garcia" height="28px" width="28px" />
   </a>
