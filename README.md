@@ -1,19 +1,19 @@
-<!-- # ¡Hey <𝚌𝚘𝚍𝚎𝚛𝚜/> 👋! Soy Bryam Talledo -->
+# ¡Hey <𝚌𝚘𝚍𝚎𝚛𝚜/> 👋! Soy Bryam Talledo
 
-<p align="center" width="300">
+<!-- <p align="center" width="300">
   <img align="center" width="200" src="" /> 
   <h3 align="center">
       ¡Hey <𝚌𝚘𝚍𝚎𝚛𝚜/> 👋! Soy Bryam Talledo
   </h3>
       
-</p>
+</p> -->
  <!-- <div style= "display: flex"> -->
 <!-- <img align="center" width="200" src="" /> 
       style= "font-size:50px; text-decoration: none;"-->
   <!-- </div> -->
 
-## About me
-Soy un desarrollador de software apasionado al mundo de la informática. Siempre dispuesto aprendender lenguajes nuevos. Las tecnologias las cuales disfruto usar son ReactJS, Express y Spring Boot
+<!-- ## About me -->
+Soy un desarrollador de software apasionado al mundo de la informática. Siempre dispuesto aprendender lenguajes nuevos. Las tecnologias las cuales disfruto usar son ReactJS, Express y Spring Boot.
 
 ## Skills
 <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>&nbsp;
