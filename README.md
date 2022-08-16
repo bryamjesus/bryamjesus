@@ -1,6 +1,10 @@
 <p align="center" width="300">
-   <!--img align="center" width="200" src="" /-->
-   <h1 align="center">¡Hey 👋! Soy Bryam Talledo</h1>
+   
+   <div display = "flex">
+      <h1 align="center">¡Hey 👋! Soy Bryam Talledo</h1>
+      <img align="center" width="200" src="" />
+</div>
+   
 </p>
 
 <p align="center">
