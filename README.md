@@ -1,9 +1,10 @@
 <p align="center" width="300">
    <!-- <div style= "display: flex"> -->
-      <h1 align="center">¡Hey 👋! Soy Bryam Talledo</h1>
+      <h3 align="center">¡Hey 👋! Soy Bryam Talledo</h3>
       <!-- <img align="center" width="200" src="" /> -->
   <!-- </div> -->
 </p>
+<p align="center">Soy <strong>Desarrollador de Software</strong></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bryam-jesus-talledo-garcia-b5ab1b1b7/" target="_blank">
