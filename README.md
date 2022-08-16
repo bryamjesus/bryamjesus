@@ -1,6 +1,6 @@
 <p align="center" width="300">
    <!-- <div style= "display: flex"> -->
-      <h2 align="center" text-decoration ="none" >¡Hey 👋! Soy Bryam Talledo</h2>
+      <h1 align="center" text-decoration ="none" style= "font-size:30px; text-decoration: none;">Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>!, I am <br> Bryam Talledo</h1>
       <!-- <img align="center" width="200" src="" /> -->
   <!-- </div> -->
 </p>
@@ -19,7 +19,7 @@
 </p>
 
 ## About me
--
+- 
 
 ## Skills
 <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
