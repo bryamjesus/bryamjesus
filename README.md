@@ -5,7 +5,7 @@
       style= "font-size:50px; text-decoration: none;"-->
   <!-- </div> -->
 
-## About me
+<!-- ## About me -->
 Soy un desarrollador de software apasionado al mundo de la informática. Siempre dispuesto aprendender lenguajes nuevos. Las tecnologias las cuales disfruto usar son ReactJS, Express y Spring Boot
 
 ## Skills
