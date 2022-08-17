@@ -1,4 +1,4 @@
-# ¡Hey <𝚌𝚘𝚍𝚎𝚛𝚜/> 👋! Soy Bryam Talledo
+# ¡Hey <𝚌𝚘𝚍𝚎𝚛𝚜/>👋! Soy Bryam Talledo
 
 <!-- <p align="center" width="300">
   <img align="center" width="200" src="" /> 
