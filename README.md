@@ -1,11 +1,14 @@
 <!-- ## About me -->
 # ![banner](https://user-images.githubusercontent.com/92701370/189722772-e56d263e-5df4-455d-aad2-bd2ce2c7111f.png)
 
+
 <!-- Soy un desarrollador de software apasionado al mundo de la informática. Siempre dispuesto aprendender lenguajes nuevos. Las tecnologias las cuales disfruto usar son ReactJS, Express y Spring Boot. -->
 
-## Proyectos
+## Proyectos ✏
 Disfruto mucho realizar proyectos para asi consolidar todos mis conocimientos y mejorar mis habilidades técnicas. Estos son algunos de mis proyectos.
-
+- [Landing Page - Sunnyside](https://github.com/bryamjesus/landing-page-sunnyside)
+- [Lista de tareas](https://github.com/bryamjesus/to-do-list-spring-boot)
+- [Aplicacion Lucky](https://github.com/bryamjesus/proyecto_lucky)
 
 ## ⚙ Tecnologias
 |Programming languages|Frontend|Backend|
