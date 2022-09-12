@@ -1,40 +1,16 @@
 # ¡Hey <𝚌𝚘𝚍𝚎𝚛𝚜/>👋! Soy Bryam Talledo
 
-<!-- <p align="center" width="300">
-  <img align="center" width="200" src="" /> 
-  <h3 align="center">
-      ¡Hey <𝚌𝚘𝚍𝚎𝚛𝚜/> 👋! Soy Bryam Talledo
-  </h3>
-      
-</p> -->
- <!-- <div style= "display: flex"> -->
-<!-- <img align="center" width="200" src="" /> 
-      style= "font-size:50px; text-decoration: none;"-->
-  <!-- </div> -->
-
 <!-- ## About me -->
 Soy un desarrollador de software apasionado al mundo de la informática. Siempre dispuesto aprendender lenguajes nuevos. Las tecnologias las cuales disfruto usar son ReactJS, Express y Spring Boot.
 
-## Skills
-<a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>&nbsp;
-<a src="https://www.java.com/"><img src="https://img.icons8.com/color/48/000000/java.png"/></a>&nbsp;
-<a src="https://es.reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>&nbsp;
-<a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>&nbsp;
-<a src="https://www.mysql.com/"><img src="https://img.icons8.com/color/48/mysql-logo.png"/></a>&nbsp;
-<a src="https://git-scm.com/"><img src="https://img.icons8.com/color/48/git.png"/></a>
+## ⚙ Tecnologias
+|Programming languages|Frontend|Backend|
+|---|---|---|
+|![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>|![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> |
 
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/bryam-jesus-talledo-garcia-b5ab1b1b7/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Bryam Jesus Talledo Garcia" height="20px" width="20px" />
-  </a>&nbsp;
-  <!-----
-  https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg
-  ----->
-  <a href="https://www.linkedin.com/in/bryam-jesus-talledo-garcia-b5ab1b1b7/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Bryam Jesus Talledo Garcia" height="20px" width="20px" />
-  </a>
-</p>
+|Bases de datos|Herramientas de desarrollo|
+|---|---|
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)|<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) |
 
 <!-- - 👋 Hi, I’m @bryamjesus
 - 👀 I’m interested in ...
