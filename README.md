@@ -1,6 +1,6 @@
 <!-- ## About me -->
 # ![banner](https://user-images.githubusercontent.com/92701370/189722772-e56d263e-5df4-455d-aad2-bd2ce2c7111f.png)
-
+Soy un desarrollador que a creado proyectos con Java, JavaScript tanto para Frontend como Backend. Mi meta es crecer y seguir mejorando como programador todos los dias.
 
 <!-- Soy un desarrollador de software apasionado al mundo de la informática. Siempre dispuesto aprendender lenguajes nuevos. Las tecnologias las cuales disfruto usar son ReactJS, Express y Spring Boot. -->
 
@@ -29,3 +29,4 @@ Disfruto mucho realizar proyectos para asi consolidar todos mis conocimientos y 
 bryamjesus/bryamjesus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<!-- git commit -m "Update README.md" -->
