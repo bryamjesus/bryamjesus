@@ -1,6 +1,6 @@
-# ¡Hey <𝚌𝚘𝚍𝚎𝚛𝚜/>👋! Soy Bryam Talledo
-
 <!-- ## About me -->
+![banner](https://user-images.githubusercontent.com/92701370/189710153-c7f4300c-5190-4269-a8ab-102b0e706d92.png)
+
 Soy un desarrollador de software apasionado al mundo de la informática. Siempre dispuesto aprendender lenguajes nuevos. Las tecnologias las cuales disfruto usar son ReactJS, Express y Spring Boot.
 
 ## ⚙ Tecnologias
