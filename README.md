@@ -1,4 +1,4 @@
-<!-- ## About me -->
+<!-- ## About me --> 
 # ![banner](https://user-images.githubusercontent.com/92701370/189722772-e56d263e-5df4-455d-aad2-bd2ce2c7111f.png)
 Soy un desarrollador de software que le gustan las tecnologías de Frontend y Backend. Una de mis metas es crecer como programador, así mismo, para lograrlo estoy profundizando en las tecnologías en las cuales ya tengo un dominio. Soy responsable adaptativo, curioso y me gusta trabajar en equipo, esas son algunas de mis habilidades.
 
