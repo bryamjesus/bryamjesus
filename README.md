@@ -28,6 +28,6 @@ Disfruto mucho realizar proyectos para asi consolidar todos mis conocimientos y 
 ![GitHub Snake dark](https://github.com/bryamjesus/bryamjesus/blob/output/github-contribution-grid-snake-dark.svg)
 
 ## 📱 Contacto
-📨: bryamtalledog@gmail.com
+📨: bryam.talledo@outlook.com
 
 <!-- https://crontab.guru/#0_*/23_*_*_* -->
