@@ -1,6 +1,6 @@
 <!-- ## About me --> 
 # ![banner](https://user-images.githubusercontent.com/92701370/189722772-e56d263e-5df4-455d-aad2-bd2ce2c7111f.png)
-Soy un desarrollador de software que le gustan las tecnologías de Frontend y Backend. Una de mis metas es crecer como programador, así mismo, para lograrlo estoy profundizando en las tecnologías en las cuales ya tengo un dominio. Soy responsable adaptativo, curioso y me gusta trabajar en equipo, esas son algunas de mis habilidades.
+Soy un **Desarrollador Full Stack** con enfoque en tecnologías de **Frontend** y **Backend**, interesado en crear soluciones sólidas y escalables. Mi meta es crecer continuamente como profesional, profundizando en mis conocimientos y habilidades en desarrollo de software. Me considero **responsable, adaptativo, curioso y un jugador de equipo**.
 
 <!-- Soy un desarrollor que le encanta programar en Java, JavaScript, HTML, CSS, Nodejs, React.  -->
 
