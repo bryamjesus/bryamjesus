@@ -10,8 +10,9 @@ Soy un desarrollador de software que le gustan las tecnologías de Frontend y Ba
 
 ## Proyectos ✏
 Disfruto mucho realizar proyectos para asi consolidar todos mis conocimientos y mejorar mis habilidades técnicas. Estos son algunos de mis proyectos.
-- [Landing Page - Sunnyside](https://github.com/bryamjesus/landing-page-sunnyside)
 - [Lista de tareas](https://github.com/bryamjesus/to-do-list-spring-boot)
+- [Pokedex](https://github.com/bryamjesus/pokedex)
+- [Landing Page - Sunnyside](https://github.com/bryamjesus/landing-page-sunnyside)
 - [Aplicacion Lucky](https://github.com/bryamjesus/proyecto_lucky)
 
 ## ⚙ Tecnologias
