@@ -4,8 +4,22 @@ Me apasiona construir aplicaciones sólidas, seguras y escalables.
 Mi objetivo es seguir creciendo como profesional, perfeccionando mis habilidades en arquitectura de software, buenas prácticas y patrones de diseño.  
 Me considero **responsable, adaptable, curioso y un jugador de equipo**.
 
+---
 
-## Proyectos ✏
+## 🚀 Proyecto Destacado
+### [Shortly - URL Shortener 🔗](https://github.com/bryamjesus/shortly-springboot)
+Aplicación Backend para acortar URLs, desarrollada con **Spring Boot**.
+
+**Características principales:**
+- API RESTful para creación y gestión de URLs.
+- Autenticación y autorización con **Spring Security**.
+- Persistencia de datos usando **Spring Data JPA**.
+- Arquitectura limpia y escalable.
+- Pruebas unitarias e integración continua.
+
+---
+
+## ✏ Otros Proyectos
 Disfruto mucho realizar proyectos para asi consolidar todos mis conocimientos y mejorar mis habilidades técnicas. Estos son algunos de mis proyectos.
 - [Lista de tareas](https://github.com/bryamjesus/to-do-list-spring-boot)
 - [Pokedex](https://github.com/bryamjesus/pokedex)
