@@ -1,5 +1,9 @@
 # ![banner](https://user-images.githubusercontent.com/92701370/189722772-e56d263e-5df4-455d-aad2-bd2ce2c7111f.png)
-Soy un **Desarrollador Full Stack** con enfoque en tecnologías de **Frontend** y **Backend**, interesado en crear soluciones sólidas y escalables. Mi meta es crecer continuamente como profesional, profundizando en mis conocimientos y habilidades en desarrollo de software. Me considero **responsable, adaptativo, curioso y un jugador de equipo**.
+Soy un **Desarrollador Full Stack** con un enfoque principal en el **desarrollo Backend**, especializado en **Java** y **Spring Boot**.  
+Me apasiona construir aplicaciones sólidas, seguras y escalables.  
+Mi objetivo es seguir creciendo como profesional, perfeccionando mis habilidades en arquitectura de software, buenas prácticas y patrones de diseño.  
+Me considero **responsable, adaptable, curioso y un jugador de equipo**.
+
 
 ## Proyectos ✏
 Disfruto mucho realizar proyectos para asi consolidar todos mis conocimientos y mejorar mis habilidades técnicas. Estos son algunos de mis proyectos.
