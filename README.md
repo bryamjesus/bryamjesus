@@ -1,12 +1,5 @@
-<!-- ## About me --> 
 # ![banner](https://user-images.githubusercontent.com/92701370/189722772-e56d263e-5df4-455d-aad2-bd2ce2c7111f.png)
 Soy un **Desarrollador Full Stack** con enfoque en tecnologías de **Frontend** y **Backend**, interesado en crear soluciones sólidas y escalables. Mi meta es crecer continuamente como profesional, profundizando en mis conocimientos y habilidades en desarrollo de software. Me considero **responsable, adaptativo, curioso y un jugador de equipo**.
-
-<!-- Soy un desarrollor que le encanta programar en Java, JavaScript, HTML, CSS, Nodejs, React.  -->
-
-<!-- Soy un desarrollador que a creado proyectos con Java, JavaScript, PHP y C#, tanto para Frontend como Backend. Una de mis metas es crear tanto como persona y profesionalmente, teniendo un rol importante en el equipo.  -->
-
-<!-- Soy un desarrollador de software apasionado al mundo de la informática. Siempre dispuesto aprendender lenguajes nuevos. Las tecnologias las cuales disfruto usar son ReactJS, Express y Spring Boot. -->
 
 ## Proyectos ✏
 Disfruto mucho realizar proyectos para asi consolidar todos mis conocimientos y mejorar mis habilidades técnicas. Estos son algunos de mis proyectos.
@@ -29,5 +22,3 @@ Disfruto mucho realizar proyectos para asi consolidar todos mis conocimientos y 
 
 ## 📱 Contacto
 📨: bryam.talledo@outlook.com
-
-<!-- https://crontab.guru/#0_*/23_*_*_* -->
